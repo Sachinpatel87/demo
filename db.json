@@ -1,0 +1,129 @@
+{
+  "user": [
+    {
+      "name": "Sachin",
+      "address": "Ahmedabad",
+      "email": "sach1997@pat@gmail.com",
+      "contact": "453532432",
+      "id": 1
+    },
+    {
+      "name": "Pachin",
+      "address": "Ahmedabad",
+      "email": "sach3231997@pat@gmail.com",
+      "contact": "433532432",
+      "id": 2
+    },
+    {
+      "name": "sachin patel",
+      "email": "Sachin@gmail.com",
+      "contact": "7567818629",
+      "address": "A/8 Akshardeep",
+      "id": 3
+    },
+    {
+      "name": "csadsad",
+      "email": "sacsc@gmail.com",
+      "contact": "52524242424",
+      "address": "vdsasfc",
+      "id": 5
+    },
+    {
+      "name": "csadsad",
+      "email": "sacsc@gmail.com",
+      "contact": "52524242424",
+      "address": "vdsasfc",
+      "id": 6
+    },
+    {
+      "name": "csadsad",
+      "email": "sacsc@gmail.com",
+      "contact": "52524242424",
+      "address": "vdsasfc",
+      "id": 7
+    },
+    {
+      "name": "scsd",
+      "email": "ssdsd@gmail.com",
+      "contact": "53425141255",
+      "address": "A/8jdnksd",
+      "id": 8
+    },
+    {
+      "name": "cscs",
+      "email": "scssd@gmail.com",
+      "contact": "224214214",
+      "address": "A/4 akshardeep",
+      "id": 9
+    },
+    {
+      "name": "dfdf",
+      "email": "dcdacsaf@gmail.com",
+      "contact": "2532535332525",
+      "address": "A.6",
+      "gender": "male",
+      "id": 10
+    },
+    {
+      "name": "sssad",
+      "email": "sadsvdf@fdc.com",
+      "contact": "4353535344",
+      "address": "A/5",
+      "gender": "female",
+      "dateOfBirth": "2022-12-24",
+      "id": 11
+    },
+    {
+      "firstname": "scsxd",
+      "lastname": "csasad",
+      "email": "sachicnk@gmail.com",
+      "contact": "344353535352",
+      "address": "A/8",
+      "gender": "male",
+      "dateOfBirth": "2022-12-09",
+      "id": 12
+    },
+    {
+      "firstname": "sfsds",
+      "lastname": "Pate",
+      "email": "savdf@gmail.com",
+      "contact": "3434342412412",
+      "address": "scssd",
+      "gender": "male",
+      "dateOfBirth": "2022-12-15",
+      "id": 13
+    },
+    {
+      "firstname": "nsdnsm",
+      "lastname": "Patdjk",
+      "email": "sacsc@gmail.com",
+      "contact": "4344121231",
+      "address": "cssds",
+      "gender": "female",
+      "dateOfBirth": "2022-12-12",
+      "image": "",
+      "id": 14
+    },
+    {
+      "firstname": "Sachin",
+      "lastname": "Patel",
+      "email": "sdsd@gmail.com",
+      "contact": "2324232323",
+      "address": "zxzXZX",
+      "gender": "female",
+      "dateOfBirth": "2022-12-20",
+      "image": "",
+      "id": 15
+    },
+    {
+      "firstname": "cxsx",
+      "lastname": "ewqw",
+      "email": "scsadsds",
+      "contact": "788790",
+      "address": "xmn,xnsm",
+      "gender": "female",
+      "dateOfBirth": "2022-12-20",
+      "id": 16
+    }
+  ]
+}
